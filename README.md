@@ -19,7 +19,7 @@ Amazon Redshift database hosted is composed of following tables -
 2. Dimensions - dim_artist, dim_song, dim_time, dim_user
 3. Facts - fact_songplay
 
-### How to run
+### How to use?
 
 Here is how the project needs to be used to run.Setup a 4 node cluser Amazon Redshift database and obtain the  ARN and HOST Values. 
 Update dwh.cfg is updated with the right HOST and ARN values.
